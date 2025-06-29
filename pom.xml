@@ -9,7 +9,7 @@
     <artifactId>smartcode-resultmerger</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <n>smartcode-resultmerger</n>
+    <name>smartcode-resultmerger</name>
     <description>Lambda function for merging code analysis results</description>
     
     <properties>
